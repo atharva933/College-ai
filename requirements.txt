@@ -1,0 +1,12 @@
+ibm-watsonx
+ibm-cloud-sdk-core
+flask
+fastapi
+uvicorn
+pydantic
+requests
+beautifulsoup4
+python-dotenv
+nltk
+transformers
+torch
